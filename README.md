@@ -1,16 +1,17 @@
-# twitch_clone_tutorial
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Live Streaming App
+Live Streaming App is a firebase- hosted streaming app.
+You need to create an account for logging in the app.
+About:
+Live Streaming App is made for you to comfortable live stream to any
+number of users and also chat while doing so.
+Features:
+• The app is built using Agora API which is one of the leading video and audioSDK.
+• Completely add-free.
+• Needs no special permission on Android 6.0 +.
+Permissions:
+• Full Network Access
+• Access to Camera and Mic.
+The network permission are only used for downloading and uploading
+live feeds from the servers.
+How to Install the app:
+• Simply download the APK and install it.
